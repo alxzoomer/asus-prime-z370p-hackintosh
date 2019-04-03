@@ -2,6 +2,10 @@
 
 ASUS Prime Z370-P & i7-8700 Hackintosh
 
+Current branch based on old kexts but they are working fully with my build.
+
+See `green` branch for Lilu based configuration.
+
 ## Hardware
 
 * Motherboard: ASUS Prime Z370-P Intel® Socket 1151 for 8th + Generation Core™ Processors
